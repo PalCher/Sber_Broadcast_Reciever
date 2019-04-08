@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ASS_Homework_3_Broadcast_Reciever</string>
+    <string name="state">state</string>
+    <string name="change">change</string>
+</resources>
